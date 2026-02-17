@@ -1,0 +1,6 @@
+[up]>[down]
+[down]>[up]
+[lalt]>[rwin]
+[home]>[escape]
+[end]>[lalt]
+[rwin]>[lalt]

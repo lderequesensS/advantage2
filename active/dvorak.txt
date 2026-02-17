@@ -1,0 +1,7 @@
+[up]>[down]
+[down]>[up]
+[home]>[escape]
+[end]>[caps]
+[lalt]>[rwin]
+[rwin]>[lalt]
+[kp-rwin]>[kp-ralt]
